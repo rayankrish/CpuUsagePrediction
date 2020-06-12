@@ -1,0 +1,8 @@
+
+*.csv
+*.png
+*.zip
+.ipynb_checkpoints/
+
+# stored arima pickles
+*.arima
