@@ -1,0 +1,8 @@
+Larger Batch sizes result in better peformance
+Smaller batch sizes result in overfitting, and therefore require a smaller learning rate and fewer epochs of training
+
+Increased LSTM layers have an adverse effect on performance. This may be because the data is of a single dimension (time)
+    - consider concurrently looking at 50 at a time
+    
+Performance increases with more hidden parameters (10 is the best)
+

@@ -6,3 +6,4 @@
 
 # stored arima pickles
 *.arima
+arima_models/
